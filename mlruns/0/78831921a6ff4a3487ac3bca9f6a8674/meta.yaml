@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/alexmiura/Treinamento/EngML/tutoria_itau/github/tutoria_modelagem_1/mlruns/0/78831921a6ff4a3487ac3bca9f6a8674/artifacts
+end_time: 1762096883892
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78831921a6ff4a3487ac3bca9f6a8674
+run_name: K-Nearest Neighbors
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762096879551
+status: 3
+tags: []
+user_id: alexmiura

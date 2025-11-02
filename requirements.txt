@@ -1,0 +1,8 @@
+pandas
+seaborn
+scikit-learn
+mlflow
+dagshub
+xgboost
+lightgbm
+catboost

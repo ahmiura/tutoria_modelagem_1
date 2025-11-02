@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/alexmiura/Treinamento/EngML/tutoria_itau/github/tutoria_modelagem_1/mlruns/0/694d19af68214ed985331604c0927f2b/artifacts
+end_time: 1762097174838
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 694d19af68214ed985331604c0927f2b
+run_name: Melhor Modelo
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762097168732
+status: 3
+tags: []
+user_id: alexmiura

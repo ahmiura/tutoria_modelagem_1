@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/alexmiura/Treinamento/EngML/tutoria_itau/github/tutoria_modelagem_1/mlruns/0/7e1ccb5a07b742438234ceb6e055ca74/artifacts
+end_time: 1762096875202
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e1ccb5a07b742438234ceb6e055ca74
+run_name: Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762096869456
+status: 3
+tags: []
+user_id: alexmiura

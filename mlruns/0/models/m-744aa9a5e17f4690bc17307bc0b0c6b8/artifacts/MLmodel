@@ -1,0 +1,22 @@
+artifact_path: file:///Users/alexmiura/Treinamento/EngML/tutoria_itau/github/tutoria_modelagem_1/mlruns/0/models/m-744aa9a5e17f4690bc17307bc0b0c6b8/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.5.1
+model_id: m-744aa9a5e17f4690bc17307bc0b0c6b8
+model_size_bytes: 2175405
+model_uuid: m-744aa9a5e17f4690bc17307bc0b0c6b8
+prompts: null
+run_id: 079104201aa94a239150e2b1ff667f50
+utc_time_created: '2025-11-02 14:14:43.092227'

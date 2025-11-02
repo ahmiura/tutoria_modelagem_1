@@ -1,0 +1,10 @@
+artifact_location: file:///Users/alexmiura/Treinamento/EngML/tutoria_itau/github/tutoria_modelagem_1/mlruns/0/models/m-d42c34f0ee3f4667ac92cf78fedf1b62/artifacts
+creation_timestamp: 1762097168834
+experiment_id: '0'
+last_updated_timestamp: 1762097174829
+model_id: m-d42c34f0ee3f4667ac92cf78fedf1b62
+model_type: null
+name: melhor_modelo
+source_run_id: 694d19af68214ed985331604c0927f2b
+status: 2
+status_message: null

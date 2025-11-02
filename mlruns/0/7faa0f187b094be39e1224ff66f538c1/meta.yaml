@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/alexmiura/Treinamento/EngML/tutoria_itau/github/tutoria_modelagem_1/mlruns/0/7faa0f187b094be39e1224ff66f538c1/artifacts
+end_time: 1762096879531
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7faa0f187b094be39e1224ff66f538c1
+run_name: Logistic Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762096875257
+status: 3
+tags: []
+user_id: alexmiura

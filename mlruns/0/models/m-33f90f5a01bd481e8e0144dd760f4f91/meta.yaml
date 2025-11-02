@@ -1,0 +1,10 @@
+artifact_location: file:///Users/alexmiura/Treinamento/EngML/tutoria_itau/github/tutoria_modelagem_1/mlruns/0/models/m-33f90f5a01bd481e8e0144dd760f4f91/artifacts
+creation_timestamp: 1762096869540
+experiment_id: '0'
+last_updated_timestamp: 1762096875191
+model_id: m-33f90f5a01bd481e8e0144dd760f4f91
+model_type: null
+name: modelo
+source_run_id: 7e1ccb5a07b742438234ceb6e055ca74
+status: 2
+status_message: null

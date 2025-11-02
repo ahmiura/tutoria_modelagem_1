@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/alexmiura/Treinamento/EngML/tutoria_itau/github/tutoria_modelagem_1/mlruns/0/5bf9aedfd2524823a5a5f523f0990fc8/artifacts
+end_time: 1762096888470
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5bf9aedfd2524823a5a5f523f0990fc8
+run_name: Gradient Boosting
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762096884070
+status: 3
+tags: []
+user_id: alexmiura
